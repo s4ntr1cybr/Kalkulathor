@@ -1,6 +1,6 @@
 #!/bin/bash
 ##program Calculator
-##Created By Mr.yM
+##Created By Mr.S4NTR1CYBR
 clear
 cd module
 python2 masuk.py
@@ -56,7 +56,7 @@ do
 clear
 echo $red   "-------------------------------------"
 echo $red   "|    PROGRAM KALKULATOR TERMUX      |"
-echo $white "|             By Mr.yM              |"
+echo $white "|             By Mr.s4ntr1cybr             |"
 echo $white "-------------------------------------"
 echo ""
 echo $red    " ________________ "
